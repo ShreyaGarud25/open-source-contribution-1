@@ -12,6 +12,9 @@ void display();
 int main()
 {
     int choice;
+    printf("\n----stack----\n");
+    printf("\n----stack----\n");
+    printf("\n----stack----\n");
     
     do
     {
